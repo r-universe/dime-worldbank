@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "googletraffic"]
+	path = googletraffic
+	url = https://github.com/dime-worldbank/googletraffic
+	shallow = true
+	registered = true
